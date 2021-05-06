@@ -1,4 +1,6 @@
-                     (1) 
+  // OKH
+                
+		  (1) 
 #!/bin/bash
 echo "ENTER A NUMBER"
 read n
